@@ -1,2 +1,0 @@
-# JAVA-SPRING-REST
-Projekt
